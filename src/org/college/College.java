@@ -10,6 +10,10 @@ public class College {
 	public void collegeCode() {
 		System.out.println("College Code: 1234");
 	}
+	
+	public void collegeEmail() {
+		System.out.println("abc@gmail.com");
+	}
 
 	public void collegeRank() {
 		System.out.println("College Rank : 2");

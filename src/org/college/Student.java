@@ -23,6 +23,7 @@ public class Student extends Hostel {
 		s.studentDept();
 		s.studentId();
 		s.studentName();
+		s.collegeEmail();
 
 	}
 
